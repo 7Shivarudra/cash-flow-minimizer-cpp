@@ -290,7 +290,7 @@ int main()
     cout << "Name: Shivarudra M S\n";
     cout << "USN: 1MV23IC051\n";
     cout << "****************************************************************\n";
-    cout << "Name: Shashwat Shandaliya\n";
+    cout << "Name: Shaswat Sandilya\n";
     cout << "USN: 1MV23IC050\n";
 
     return 0;
